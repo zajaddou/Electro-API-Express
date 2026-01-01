@@ -28,7 +28,7 @@ Electro-API is a powerful and lightweight API built with Express.js. It provides
 To set up Electro-API on your local machine:
 
 ```bash
-git clone https://github.com/MinProGamer/Electro-API-Express.git
+git clone https://github.com/zajaddou/Electro-API-Express.git
 ```
 
 ## 📚 API Documentation
